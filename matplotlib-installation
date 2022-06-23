@@ -1,0 +1,6 @@
+C:\Users\youruser>py --version
+C:\Users\youruser>py -m pip --version
+C:\Users\youruser>py -m pip install numpy
+C:\Users\youruser>py -m pip install --upgrade pip
+C:\Users\youruser>py -m pip install pandas
+C:\Users\youruser>py -m pip in
